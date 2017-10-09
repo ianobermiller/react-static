@@ -127,7 +127,7 @@ export default {
         post: {...},
         otherProp: {...}
       })
-      // getProps is a n asynchronous function that is passed the
+      // getProps is an asynchronous function that is passed the
       // resolved `route` object and a `dev` boolean indicating
       // whether this is a production build or not. This function
       // should resolve any data the route needs to render eg. blog
